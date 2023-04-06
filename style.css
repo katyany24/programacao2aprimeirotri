@@ -1,4 +1,8 @@
 header {
-  background-color: rgb(89, 145, 219);
+  background-color: rgb(148, 182, 226);
    color: white;
+}
+body{
+     background-color: aliceblue;
+     color: aliceblue;
 }
